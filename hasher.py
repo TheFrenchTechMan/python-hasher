@@ -1,5 +1,4 @@
 import hashlib
-import time
 
 _hashtable = hashlib
 hashtable = {}
