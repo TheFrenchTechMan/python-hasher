@@ -1,9 +1,9 @@
 # python-hasher
-A simple program that encrypts a text into one of the 13 available agorithms of hashlib.
+A simple program that hashes a text into one of the 13 available agorithms of hashlib.
 
 Credits:
 - TheFrenchTechMan#4580 for the base code
-- Liker#5894 for the optimized encrypting script
+- Liker#5894 for the optimized hashing script
 
 Available algorithms:
 - sha384
